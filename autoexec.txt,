@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ValenHallow2/CatchyPet/refs/heads/main/catchypet.lua"))()
+
